@@ -1,3 +1,6 @@
 Angga Resolusi
 - Konsisten Belajar Pemrograman Web
 - Kelola file dengan baik
+Lakukan pertama :
+-Belajar PHP
+-Belajar Laravel
