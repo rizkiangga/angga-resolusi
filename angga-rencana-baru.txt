@@ -2,8 +2,8 @@ Rencana Baru
 -Belajar JS
   JS terbaru
   Framework
-  ^Laravel
+  ^Angular
   ^React
+  ^Laravel
 -Belajar Ruby
--Konsisten
--Python
+
