@@ -3,6 +3,7 @@ Rencana Baru
   JS terbaru
   Framework
   ^Laravel
+  ^React
 -Belajar Ruby
 -Konsisten
 -Python
