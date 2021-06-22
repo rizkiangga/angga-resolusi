@@ -1,5 +1,9 @@
 Rencana Baru
 -Belajar JS
   JS terbaru
+  Framework
+  ^Laravel
+  ^React
 -Belajar Ruby
 -Konsisten
+-Python
